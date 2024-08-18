@@ -89,4 +89,42 @@ Edit the policy
 
 ![image](https://github.com/user-attachments/assets/29d3e3f6-6e13-4aea-a630-75868dd4673a)
 
+Configure the firewall 
+
+![image](https://github.com/user-attachments/assets/eea85de7-fb80-4bb6-9968-330f5bd9236b)
+
+Click on properties > Select On
+
+![image](https://github.com/user-attachments/assets/945f7bfb-75b3-4a0e-a355-97dcac5fa883)
+
+Configure the Allow / Block settings for the domain profile then click OK
+
+![image](https://github.com/user-attachments/assets/58f96e12-05f0-45a2-ab27-2fa72eb1da38)
+
+Allowing remote desktop connection
+Policies > Windows Settings > User Rights Assignment > Allow log on through Remote Desktop Services
+
+![image](https://github.com/user-attachments/assets/e0098cfd-407d-498c-8041-af6450203334)
+
+![image](https://github.com/user-attachments/assets/e06c4969-50fc-4146-b0bb-a9a8ed8601a4)
+
+Click check names then OK
+
+![image](https://github.com/user-attachments/assets/f5524dc4-19da-45dd-9fea-30b6b3b70eb9)
+
+I also added Domain Users to showcase that you're not limited to adding one group
+
+![image](https://github.com/user-attachments/assets/60948d7c-0c6e-461e-ba9b-6f038b0e2bb7)
+
+Policy settings are now defined
+
+![image](https://github.com/user-attachments/assets/6cdf56a2-4060-4ce5-9c2e-37484bc7adda)
+
+Update Policy 
+
+![image](https://github.com/user-attachments/assets/6bd3d7ed-0dd3-44a4-92f7-ccb122a945ac)
+
+#### Making the web app accessible to the other clients aka Updating Web App Binding
+
+
 
